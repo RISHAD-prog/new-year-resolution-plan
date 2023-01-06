@@ -43,3 +43,103 @@
     font-size: 20px;
     text-align: right;
 }
+
+.previous-year-mistakes {
+    margin-top: 130px;
+}
+
+.mistaking-things {
+    display: flex;
+    gap: 40px;
+}
+
+.frustration-image img {
+    width: 500px;
+    height: 610px;
+    margin-left: 205px;
+}
+
+.mistakes-summary {
+    margin: 210px 322px 50px 30px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 20px;
+    padding-right: 160px;
+}
+
+.description {
+    font-size: 17px;
+    margin-bottom: 15px;
+}
+
+.lists {
+    list-style: lower-roman;
+    padding-left: 15px;
+}
+
+.lists li {
+    margin-bottom: 8px;
+}
+
+.learning-plan {
+    margin-top: 80px;
+}
+
+.learning-plan-title {
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.skills {
+    margin: 50px 230px;
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.skill-title {
+    font-weight: 600;
+    font-size: 30px;
+    margin-bottom: 8px;
+}
+
+.skill-description {
+    font-size: 20px;
+}
+
+.contact {
+    margin: 40px 230px;
+    background-image: url("../images/gradient1.png"), url("../images/watch.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1140px;
+    height: 280px;
+    border-radius: 8px;
+    border: 0;
+}
+
+.motivation-text {
+    padding: 60px 615px 10px 65px;
+    font-size: 40px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.contact button {
+    margin: 15px 916px 60px 65px;
+    background-color: #FFFFFF;
+    width: 160px;
+    height: 64px;
+    border: 0;
+    border-radius: 5px;
+    color: #005FAC;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+}
