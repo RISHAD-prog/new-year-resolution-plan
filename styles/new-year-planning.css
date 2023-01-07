@@ -123,6 +123,7 @@
     height: 280px;
     border-radius: 8px;
     border: 0;
+    background-blend-mode: hard-light;
 }
 
 .motivation-text {
