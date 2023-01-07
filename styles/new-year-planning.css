@@ -165,6 +165,10 @@ footer {
     margin: 130px 50px 130px 230px;
 }
 
+.footer-links a {
+    text-decoration: none;
+}
+
 .footer-description {
     margin-top: 20px;
     color: #FFFFFF;
